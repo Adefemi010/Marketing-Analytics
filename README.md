@@ -38,20 +38,32 @@ ii. Identify recurring positive and negative feedback to guide product and servi
 
 ## Data Extraction and Cleaning
  Data extraction and cleaning using Microsoft SQL Server, ensuring accurate and well-structured datasets for analysis
-![Products sql](https://github.com/user-attachments/assets/9c5cfd0a-1789-4e25-9471-15258bf63773)
+![Products sql](https://github.com/user-attachments/assets/ae2d7e84-2806-4f95-91f1-ad08776cda01)
+
 ![facts_customer](https://github.com/user-attachments/assets/6d9d776e-d121-49d9-b90b-aff9b2f36974)
+
 ![Engagement Data sql csv](https://github.com/user-attachments/assets/a8a00be0-7708-4ab7-8e08-5bca194a7326)
+
 ![Engagement Data ](https://github.com/user-attachments/assets/864e345b-9e77-4683-8076-683b4d4d3f0a)
+
 ![dim_customers sql](https://github.com/user-attachments/assets/7b963020-5999-49d7-b0f7-6e7b7ddf475e)
+
 ![Customer Reviews sql](https://github.com/user-attachments/assets/98a41e16-63d8-4d5e-a819-a8dd29110c25)
 
 ## Data Analysis and Visualisation (Power BI)
-![Conversion Rate](https://github.com/user-attachments/assets/8782f9e9-f245-43d8-8b05-35570fa0ddb7)
-![Conversion Rate 2](https://github.com/user-attachments/assets/1a39b030-cd4f-4967-bf72-7a74a66f48d9)
+
+
+![Social Media](https://github.com/user-attachments/assets/263992e8-c8c7-4b05-90a5-5605a3ccc7c9)
+
+![Social Media 2](https://github.com/user-attachments/assets/18545782-d8b9-4a0a-8f81-e731c6b03ad9)
 
 ![Ratings](https://github.com/user-attachments/assets/be477b79-357f-4a79-a1e6-31840977a829)
 
 ## Results and Insights
+
+![Conversion Rate](https://github.com/user-attachments/assets/8782f9e9-f245-43d8-8b05-35570fa0ddb7)
+
+![Conversion Rate 2](https://github.com/user-attachments/assets/1a39b030-cd4f-4967-bf72-7a74a66f48d9)
 1. Decreased Conversion Rates:
     
 The conversion rate demonstrated a strong rebound in December, reaching 10.2%, despite a notable dip to 5.0% in October.
