@@ -1,3 +1,4 @@
+
 # Marketing-Analytics
 ## Business Problem
 Jumia, an online retail business, is facing reduced customer engagement and conversion rates despite launching several new online marketing campaigns. They are reaching out to you to help conduct a detailed analysis and identify areas for improvement in their marketing strategies.
@@ -37,6 +38,12 @@ ii. Identify recurring positive and negative feedback to guide product and servi
 
 ## Data Extraction and Cleaning
  Data extraction and cleaning using Microsoft SQL Server, ensuring accurate and well-structured datasets for analysis
+![Products sql](https://github.com/user-attachments/assets/9c5cfd0a-1789-4e25-9471-15258bf63773)
+![facts_customer](https://github.com/user-attachments/assets/6d9d776e-d121-49d9-b90b-aff9b2f36974)
+![Engagement Data sql csv](https://github.com/user-attachments/assets/a8a00be0-7708-4ab7-8e08-5bca194a7326)
+![Engagement Data ](https://github.com/user-attachments/assets/864e345b-9e77-4683-8076-683b4d4d3f0a)
+![dim_customers sql](https://github.com/user-attachments/assets/7b963020-5999-49d7-b0f7-6e7b7ddf475e)
+![Customer Reviews sql](https://github.com/user-attachments/assets/98a41e16-63d8-4d5e-a819-a8dd29110c25)
 
 
 
