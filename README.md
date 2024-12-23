@@ -21,12 +21,15 @@ Your expertise in data analysis will be crucial in helping us decode this feedba
 ## Requirement and Goals
 ### Increase Conversion Rates
 i. Identify factors impacting the conversion rate and provide recommendations to improve it.
+
 ii. Highlight key stages where visitors drop off and suggest improvements to optimize the conversion funnel.
 ### Enhance Customer Engagement
 i. Determine which types of content drive the highest engagement. 
+
 ii. Analyze interaction levels with different types of marketing content to inform better content strategies.
 ### Improve Customer Feedback Score
 i. Understand common themes in customer reviews and provide actionable insights.
+
 ii. Identify recurring positive and negative feedback to guide product and service improvements.
 
 ## Data Extraction and Cleaning
