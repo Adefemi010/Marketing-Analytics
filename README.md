@@ -45,6 +45,28 @@ ii. Identify recurring positive and negative feedback to guide product and servi
 ![dim_customers sql](https://github.com/user-attachments/assets/7b963020-5999-49d7-b0f7-6e7b7ddf475e)
 ![Customer Reviews sql](https://github.com/user-attachments/assets/98a41e16-63d8-4d5e-a819-a8dd29110c25)
 
+## Data Analysis and Visualisation (Power BI)
+![Conversion Rate](https://github.com/user-attachments/assets/8782f9e9-f245-43d8-8b05-35570fa0ddb7)
+![Conversion Rate 2](https://github.com/user-attachments/assets/1a39b030-cd4f-4967-bf72-7a74a66f48d9)
+![Social Media](https://github.com/user-attachments/assets/bc1c5f35-a4a9-4146-8d5b-030600deffac)
+![Social Media 2](https://github.com/user-attachments/assets/18a9e5bc-d02e-43cc-8937-86969910bbc8)
+![Ratings](https://github.com/user-attachments/assets/be477b79-357f-4a79-a1e6-31840977a829)
+
+## Results and Insights
+1. Decreased Conversion Rates: 
+The conversion rate demonstrated a strong rebound in December, reaching 10.2%, despite a notable dip to 5.0% in October.
+i. General Conversion Trend:
+Throughout the year, conversion rates varied, with higher numbers of products converting successfully in months like February and July. This suggests that while some products had strong seasonal peaks, there is potential to improve conversions in lower-performing months through targeted interventions.
+
+ii. Lowest Conversion Month:
+May experienced the lowest overall conversion rate at 4.3%, with no products standing out significantly in terms of conversion. This indicates a potential need to revisit marketing strategies or promotions during this period to boost performance.
+
+iii. Highest Conversion Rates:
+January recorded the highest overall conversion rate at 18.5%, driven significantly by the Ski Boots with a remarkable 150% conversion. This indicates a strong start to the year, likely fueled by seasonal demand and effective marketing strategies.
+
+
+
+
 
 
 
