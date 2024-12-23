@@ -64,18 +64,35 @@ ii. Identify recurring positive and negative feedback to guide product and servi
 ![Conversion Rate](https://github.com/user-attachments/assets/8782f9e9-f245-43d8-8b05-35570fa0ddb7)
 
 ![Conversion Rate 2](https://github.com/user-attachments/assets/1a39b030-cd4f-4967-bf72-7a74a66f48d9)
-1. Decreased Conversion Rates:
-    
-The conversion rate demonstrated a strong rebound in December, reaching 10.2%, despite a notable dip to 5.0% in October.
+1. Conversion Rates:
 
 i. General Conversion Trend:
-Throughout the year, conversion rates varied, with higher numbers of products converting successfully in months like February and July. This suggests that while some products had strong seasonal peaks, there is potential to improve conversions in lower-performing months through targeted interventions.
+Throughout the year, conversion rates varied, with higher numbers of products converting successfully in months like January and September. This suggests that while some products had strong seasonal peaks, there is potential to improve conversions in lower-performing months through targeted interventions.
 
 ii. Lowest Conversion Month:
-May experienced the lowest overall conversion rate at 4.3%, with no products standing out significantly in terms of conversion. This indicates a potential need to revisit marketing strategies or promotions during this period to boost performance.
+May experienced the lowest overall conversion rate at 6.1%, with no products standing out significantly in terms of conversion. This indicates a potential need to revisit marketing strategies or promotions during this period to boost performance.
 
 iii. Highest Conversion Rates:
-January recorded the highest overall conversion rate at 18.5%, driven significantly by the Ski Boots with a remarkable 150% conversion. This indicates a strong start to the year, likely fueled by seasonal demand and effective marketing strategies.
+January recorded the highest overall conversion rate at 17.3%, driven significantly by the Ski Boots with a remarkable 100% conversion. This indicates a strong start to the year, likely fueled by seasonal demand and effective marketing strategies.
+
+2. Declining Views:
+
+![Social Media](https://github.com/user-attachments/assets/263992e8-c8c7-4b05-90a5-5605a3ccc7c9)
+
+![Social Media 2](https://github.com/user-attachments/assets/18545782-d8b9-4a0a-8f81-e731c6b03ad9)
+
+i. Reduced Customer Engagement:
+There is a decline in overall social media engagement, with views dropping throughout the year.
+While clicks and likes are low compared to views, the click-through rate stands at 15.37%, meaning that engaged users are still interacting effectively.
+
+
+
+Views peaked in February and July but declined from August and on, indicating reduced audience engagement in the later half of the year.
+Low Interaction Rates:
+Clicks and likes remained consistently low compared to views, suggesting the need for more engaging content or stronger calls to action.
+Content Type Performance:
+Blog content drove the most views, especially in April and July, while social media and video content maintained steady but slightly lower engagement.
+
 
 
 
