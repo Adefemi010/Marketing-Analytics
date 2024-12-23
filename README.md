@@ -18,6 +18,20 @@ We have data from various sources, including customer reviews, social media comm
 We’ve gathered a significant amount of customer reviews and social media comments that highlight various issues and sentiments. We believe that by thoroughly analyzing this feedback, we can gain a better understanding of our customers' needs and pain points.
 Your expertise in data analysis will be crucial in helping us decode this feedback and provide actionable insights. We hope this will guide us in improving our customer experience and ultimately boost our engagement and conversion rates.
 
+## Requirement and Goals
+### Increase Conversion Rates
+i. Identify factors impacting the conversion rate and provide recommendations to improve it.
+ii. Highlight key stages where visitors drop off and suggest improvements to optimize the conversion funnel.
+### Enhance Customer Engagement
+i. Determine which types of content drive the highest engagement. 
+ii. Analyze interaction levels with different types of marketing content to inform better content strategies.
+### Improve Customer Feedback Score
+i. Understand common themes in customer reviews and provide actionable insights.
+ii. Identify recurring positive and negative feedback to guide product and service improvements.
+
+## Data Extraction and Cleaning
+ Data extraction and cleaning using Microsoft SQL Server, ensuring accurate and well-structured datasets for analysis
+
 
 
 
