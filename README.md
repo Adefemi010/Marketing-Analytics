@@ -4,8 +4,11 @@ Jumia, an online retail business, is facing reduced customer engagement and conv
 
 ## Key Points:
 Reduced Customer Engagement: The number of customer interactions and engagement with the site and marketing content has declined.
+
 Decreased Conversion Rates: Fewer site visitors are converting into paying customers.
+
 High Marketing Expenses: Significant investments in marketing campaigns are not yielding expected returns.
+
 Need for Customer Feedback Analysis: Understanding customer opinions about products and services is crucial for improving engagement and conversions.
 
 ## Request for Data Analysis to Improve Marketing Strategy
