@@ -52,16 +52,7 @@ ii. Identify recurring positive and negative feedback to guide product and servi
 
 ## Data Analysis and Visualisation (Power BI)
 
-![Conversion Rate](https://github.com/user-attachments/assets/8782f9e9-f245-43d8-8b05-35570fa0ddb7)
 
-![Conversion Rate 2](https://github.com/user-attachments/assets/1a39b030-cd4f-4967-bf72-7a74a66f48d9)
-
-![Social Media](https://github.com/user-attachments/assets/263992e8-c8c7-4b05-90a5-5605a3ccc7c9)
-
-![Social Media 2](https://github.com/user-attachments/assets/18545782-d8b9-4a0a-8f81-e731c6b03ad9)
-
-
-![Ratings](https://github.com/user-attachments/assets/be477b79-357f-4a79-a1e6-31840977a829)
 
 
 
