@@ -52,6 +52,34 @@ ii. Identify recurring positive and negative feedback to guide product and servi
 
 ## Data Analysis and Visualisation (Power BI)
 
+![2023 con](https://github.com/user-attachments/assets/2cf06949-9f8b-46f6-ae5b-249358288086)
+
+![2023 con 2](https://github.com/user-attachments/assets/129408ac-3c0a-40b3-837c-9964f7171a40)
+
+
+In 2023, January recorded the highest Conversion Rate at 22.6%, which was 443.40% higher than September's rate, the lowest at 4.2%. Throughout the year, monthly Conversion Rates ranged from 4.2% to 22.6%.
+
+![2024 con](https://github.com/user-attachments/assets/1c2bbf66-42a6-45f4-91be-d442ead04874)
+
+![2024 con 2](https://github.com/user-attachments/assets/a32e7080-30f4-41b2-8d22-8f5fb9bd8a41)
+
+In January 2024, the Conversion Rate was the highest at 19.6%, which was 337.91% higher than May's rate, the lowest at 4.5%. January led with the highest Conversion Rate, followed by September and July. Across all 11 months, Conversion Rates ranged from 4.5% to 19.6%.
+
+![2025 con](https://github.com/user-attachments/assets/00540337-9e47-40c6-9db2-a481d48cea91)
+
+![2025 con 3](https://github.com/user-attachments/assets/ab95e317-eeea-43a5-91aa-7e4eaaca0a52)
+
+In 2025, September recorded the highest Conversion Rate at 15.2%, which was 415.15% higher than July's rate, the lowest at 2.9%. Across all 12 months, Conversion Rates ranged from 2.9% to 15.2%.
+
+
+
+
+
+
+
+
+
+
 
 
 
