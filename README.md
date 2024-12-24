@@ -72,29 +72,53 @@ ii. Identify recurring positive and negative feedback to guide product and servi
 ### In 2025, September recorded the highest Conversion Rate at 15.2%, which was 415.15% higher than July's rate, the lowest at 2.9%. Across all 12 months, Conversion Rates ranged from 2.9% to 15.2%.
 
 ## Key Insights:
+
 2023:
+
 Highest Conversion Rate: January at 22.6%.
+
 Lowest Conversion Rate: September at 4.2%.
+
 Difference: January's rate was 443.40% higher than September's.
+
 Range: 4.2% to 22.6%.
+
 2024:
+
 Highest Conversion Rate: January at 19.6%.
+
 Lowest Conversion Rate: May at 4.5%.
+
 Difference: January's rate was 337.91% higher than May's.
+
 Top Performers: January, followed by September and July.
+
 Range: 4.5% to 19.6%.
+
 2025:
+
 Highest Conversion Rate: September at 15.2%.
+
 Lowest Conversion Rate: July at 2.9%.
+
 Difference: September's rate was 415.15% higher than July's.
+
 Range: 2.9% to 15.2%.
+
 Highest Conversion Rate:
+
 2023 had the highest peak (22.6%), while 2025 had the lowest (15.2%).
+
 Lowest Conversion Rate:
+
 The lowest rates varied, with 2025 being the most challenging year at 2.9%.
+
 Yearly Range:
+
 2023 had the widest range (4.2% to 22.6%), showing the most variability.
+
 Top Month:
+
 January dominated in 2023 and 2024, while September took the lead in 2025.
 
 
