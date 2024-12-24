@@ -121,11 +121,80 @@ Top Month:
 
 January dominated in 2023 and 2024, while September took the lead in 2025.
 
+![2023 social](https://github.com/user-attachments/assets/a4d684f4-7961-407e-b69c-24f77894dead)
 
+![2 2023 social](https://github.com/user-attachments/assets/e83c7138-2bf5-438d-8195-b9401da421b7)
 
+In 2023, February recorded the highest Views at 572,721, which was 96.93% higher than December's lowest Views of 290,831.
 
+Views and total Clicks demonstrated a positive correlation. February alone accounted for 11.45% of total Views.
 
+Across all 12 months, Views ranged from 290,831 to 572,721, Clicks ranged from 57,676 to 165,710, and Likes ranged from 12,131 to 52,618.
 
+Among platforms, SOCIAL MEDIA achieved the highest total Views at 1,739,512, followed by BLOG with 1,729,633 and VIDEO with 1,531,058. February’s Views in the VIDEO category contributed 4.23% of total Views.
+
+In terms of average monthly Views, SOCIAL MEDIA led with 144,959.33, followed by BLOG at 144,136.08, and VIDEO at 127,588.17.
+
+![2024 social](https://github.com/user-attachments/assets/df9169c5-ce0a-4154-970d-05ad70dee629)
+
+![2 2024 social](https://github.com/user-attachments/assets/a7b64475-31fa-4d47-a6d4-95a2d15ea2b4)
+
+In 2024, May recorded the highest Views at 326,805, which was 102.67% higher than October's lowest Views of 161,251.
+
+Views and total Clicks showed a positive correlation, with May contributing 10.96% of total Views.
+
+Throughout the year, Views ranged from 161,251 to 326,805, Clicks ranged from 16,590 to 60,755, and Likes ranged from 1,717 to 11,516.
+
+Among platforms, SOCIAL MEDIA had the highest total Views at 1,019,274, followed by BLOG with 1,013,393, and VIDEO with 949,702. May’s Views in the BLOG category accounted for 4.71% of total Views.
+
+In terms of average monthly Views, SOCIAL MEDIA led with 84,939.50, followed by BLOG at 84,449.42, and VIDEO at 79,141.83.
+
+![2025 social](https://github.com/user-attachments/assets/60629850-7d24-47b0-9b4c-9d97a8c1426f)
+
+![2 2025 social](https://github.com/user-attachments/assets/6aca08a3-d98a-4c44-94ce-d560927813cd)
+
+In 2025, January recorded the highest Views at 167,624, which was 260.89% higher than September's lowest Views of 46,448.
+
+Views and total Clicks demonstrated a positive correlation, with January contributing 15.28% of total Views.
+
+Throughout the year, Views ranged from 46,448 to 167,624, Clicks ranged from 1,387 to 15,108, and Likes ranged from 8 to 1,343.
+
+Among platforms, BLOG achieved the highest total Views at 401,173, followed by VIDEO with 359,407, and SOCIAL MEDIA with 336,124. January’s Views in the BLOG category accounted for 6.65% of total Views.
+
+In terms of average monthly Views, BLOG led with 33,431.08, followed by VIDEO at 29,950.58, and SOCIAL MEDIA at 28,010.33.
+
+### Insights:
+2023 had the highest peak Views (572,721 in February) and the widest range across metrics, suggesting strong variability.
+
+2024 saw a slight drop in peak Views (326,805 in May) but maintained a balanced distribution among platforms.
+
+2025 experienced a sharp decline in Views, with the highest at 167,624 (January), reflecting reduced overall engagement or platform reach.
+
+BLOG consistently remained a top-performing platform, dominating total Views in 2025 and maintaining strong averages across all years.
+
+![Ratings](https://github.com/user-attachments/assets/d19d29f6-cf0c-403b-b6c8-d5c1263fd1d8)
+
+### Customer Ratings Distribution:
+The majority of customer reviews are in the higher ratings, with 431 reviews at 4 stars and 409 reviews at 5 stars, indicating overall positive feedback. Lower ratings (1-2 stars) account for a smaller proportion, with 80 reviews at 1 star and 153 reviews at 2 stars.
+
+### Sentiment Analysis:
+Positive sentiment dominates with 840 reviews, reflecting a generally satisfied customer base. Negative sentiment is present in 226 reviews, with a smaller number of mixed and neutral sentiments, suggesting some areas for improvement but overall strong customer approval.
+
+### Opportunity for Improvement:
+The presence of mixed positive and mixed negative sentiments suggests that there are opportunities to convert those mixed experiences into more clearly positive ones, potentially boosting overall ratings. Addressing the specific concerns in mixed reviews could elevate customer satisfaction.
+
+## Recommendation
+### Increase Conversion Rates:
+
+Target High-Performing Product Categories: Focus marketing efforts on products with demonstrated high conversion rates, such as Kayaks, Ski Boots, and Baseball Gloves. Implement seasonal promotions or personalized campaigns during peak months (e.g., January and September) to capitalize on these trends.
+
+### Enhance Customer Engagement:
+
+Revitalize Content Strategy: To turn around declining views and low interaction rates, experiment with more engaging content formats, such as interactive videos or user-generated content. Additionally, boost engagement by optimizing call-to-action placement in social media and blog content, particularly during historically lower-engagement months (September-December).
+
+## Improve Customer Feedback Scores:
+
+Address Mixed and Negative Feedback: Implement a feedback loop where mixed and negative reviews are analyzed to identify common issues. Develop improvement plans to address these concerns. Consider following up with dissatisfied customers to resolve issues and encourage re-rating, aiming to move average ratings closer to the 4.0 target.
 
 
 
